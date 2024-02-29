@@ -1,0 +1,1237 @@
+[INFO ] 2024-02-28 16:18:07.640 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:18:14.818 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 16:18:14.951 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 16:18:15.040 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 16:18:15.255 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 16:18:15.636 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 16:18:25.826 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 16:18:40.848 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:18:47.273 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 16:18:47.401 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 16:18:47.475 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 16:18:47.605 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 16:18:47.698 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 16:18:57.891 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 16:19:04.533 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:19:12.645 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 16:19:12.994 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 16:19:13.084 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 16:19:13.523 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 16:19:13.666 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 16:19:23.805 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 16:19:32.400 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:19:37.918 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 16:19:38.149 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 16:19:38.263 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 16:19:38.486 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 16:19:38.597 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 16:19:48.904 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 16:20:17.620 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:20:22.045 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 16:20:22.208 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 16:20:22.776 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 16:20:22.886 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 16:20:22.968 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 16:20:36.136 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 16:20:48.171 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:20:53.869 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 16:20:53.985 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 16:20:54.087 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 16:20:54.182 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 16:20:54.275 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 16:21:06.902 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 16:21:16.740 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:21:21.323 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 16:21:21.488 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 16:21:21.996 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 16:21:22.360 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 16:21:22.475 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 16:21:34.842 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 16:21:48.479 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:22:06.340 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 16:23:50.922 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:24:11.357 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:24:22.914 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:24:58.420 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:25:12.469 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:25:17.876 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 16:25:17.978 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 16:25:18.052 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 16:25:18.116 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 16:25:18.191 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 16:25:31.424 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 16:25:53.174 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:26:00.651 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 16:26:00.759 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 16:26:00.834 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 16:26:01.043 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 16:26:01.366 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 16:26:11.958 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 16:26:40.391 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:26:46.810 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 16:26:46.901 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 16:26:47.030 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 16:26:47.179 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 16:26:47.258 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 16:26:57.426 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 16:27:24.761 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:27:30.241 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 16:27:30.388 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 16:27:30.457 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 16:27:30.573 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 16:27:30.669 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 16:27:43.922 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 16:27:53.842 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:28:02.507 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 16:28:02.611 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 16:28:02.717 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 16:28:02.882 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 16:28:03.137 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 16:28:13.295 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 16:28:23.152 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:28:28.566 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 16:28:28.807 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 16:28:28.983 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 16:28:29.279 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 16:28:29.427 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 16:28:39.947 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 16:29:08.590 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:29:15.152 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 16:29:15.386 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 16:29:15.475 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 16:29:15.637 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 16:29:15.741 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 16:29:29.188 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 16:29:40.011 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 16:29:45.071 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 16:29:45.299 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 16:29:45.434 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 16:29:46.027 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 16:29:46.383 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 16:29:56.561 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 16:30:06.030 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:30:07.882 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:30:23.165 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:30:25.923 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:30:34.479 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:30:36.514 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:30:42.689 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:30:48.663 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:30:57.135 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:30:59.790 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:31:32.662 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:31:34.585 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:31:46.483 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:31:48.507 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:32:02.466 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:32:04.306 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:32:18.198 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:32:21.232 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:32:55.242 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:32:57.156 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:33:31.182 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:33:33.136 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:33:44.960 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:33:46.825 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:34:39.688 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:34:44.330 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:34:56.049 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:34:57.883 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:35:12.390 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:35:14.679 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:35:33.650 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:35:35.407 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:36:03.986 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:36:07.406 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:36:39.179 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:37:04.250 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:37:35.549 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:37:39.281 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:37:48.861 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:38:33.375 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:39:03.549 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:39:06.521 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:39:35.783 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:39:39.364 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:39:44.910 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:39:53.187 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:40:00.950 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:40:31.826 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:41:04.430 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:41:07.875 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:41:14.881 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:41:40.014 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:41:51.135 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:41:53.139 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:42:42.635 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 16:42:45.524 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 16:43:15.807 [TestNG-test=Test-1] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 16:43:15.824 [TestNG-test=Test-1] Searchsteps - entering valid product name
+[INFO ] 2024-02-28 16:43:16.151 [TestNG-test=Test-1] Searchsteps - clicking on search button
+[INFO ] 2024-02-28 16:43:27.264 [TestNG-test=Test-1] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 16:43:27.266 [TestNG-test=Test-1] Searchsteps - entering valid product name
+[INFO ] 2024-02-28 16:43:27.737 [TestNG-test=Test-1] Searchsteps - clicking on search button
+[INFO ] 2024-02-28 16:43:32.722 [TestNG-test=Test-1] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 16:43:32.738 [TestNG-test=Test-1] Searchsteps - entering valid product name
+[INFO ] 2024-02-28 16:43:58.889 [TestNG-test=Test-1] Searchsteps - clicking on search button
+[INFO ] 2024-02-28 16:44:31.398 [TestNG-test=Test-1] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 16:44:31.405 [TestNG-test=Test-1] Searchsteps - entering valid product name
+[INFO ] 2024-02-28 16:44:31.968 [TestNG-test=Test-1] Searchsteps - clicking on search button
+[INFO ] 2024-02-28 16:45:02.839 [TestNG-test=Test-1] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 16:45:02.864 [TestNG-test=Test-1] Searchsteps - entering valid product name
+[INFO ] 2024-02-28 16:45:03.418 [TestNG-test=Test-1] Searchsteps - clicking on search button
+[INFO ] 2024-02-28 16:45:42.060 [TestNG-test=Test-1] cart - user searches for sofa
+[INFO ] 2024-02-28 16:45:48.421 [TestNG-test=Test-1] cart - Then adds item to cart
+[INFO ] 2024-02-28 16:45:52.981 [TestNG-test=Test-1] cart - Then removes item from cart
+[INFO ] 2024-02-28 16:46:47.114 [TestNG-test=Test-1] cart - user searches for table
+[INFO ] 2024-02-28 16:46:53.694 [TestNG-test=Test-1] cart - Then adds item to cart
+[INFO ] 2024-02-28 16:47:02.075 [TestNG-test=Test-1] cart - user searches for sofa
+[INFO ] 2024-02-28 16:47:06.856 [TestNG-test=Test-1] cart - Then adds item to cart
+[INFO ] 2024-02-28 16:47:19.580 [TestNG-test=Test-1] cart - Then adds item to cart
+[INFO ] 2024-02-28 16:47:47.380 [TestNG-test=Test-1] cart - user searches for table
+[INFO ] 2024-02-28 16:47:51.519 [TestNG-test=Test-1] cart - Then adds item to cart
+[INFO ] 2024-02-28 16:47:55.723 [TestNG-test=Test-1] cart - The quantity is increased
+[INFO ] 2024-02-28 16:48:28.987 [TestNG-test=Test-1] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-28 16:48:28.991 [TestNG-test=Test-1] FilterStepdefinition - Item searched
+[INFO ] 2024-02-28 16:48:33.594 [TestNG-test=Test-1] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-28 16:49:02.331 [TestNG-test=Test-1] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-28 16:49:02.338 [TestNG-test=Test-1] FilterStepdefinition - Item searched
+[INFO ] 2024-02-28 16:49:08.532 [TestNG-test=Test-1] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-28 16:49:11.703 [TestNG-test=Test-1] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-28 16:49:20.082 [TestNG-test=Test-1] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-28 16:49:20.083 [TestNG-test=Test-1] FilterStepdefinition - Item searched
+[INFO ] 2024-02-28 16:49:25.883 [TestNG-test=Test-1] FilterStepdefinition - Drag item price element
+[INFO ] 2024-02-28 16:49:29.676 [TestNG-test=Test-1] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-28 16:49:32.843 [TestNG-test=Test-1] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-28 16:49:36.995 [TestNG-test=Test-1] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-28 16:49:36.998 [TestNG-test=Test-1] FilterStepdefinition - Item searched
+[INFO ] 2024-02-28 16:50:25.346 [TestNG-test=Test-1] FilterStepdefinition - Drag item price element
+[INFO ] 2024-02-28 16:50:29.006 [TestNG-test=Test-1] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-28 16:50:32.110 [TestNG-test=Test-1] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-28 16:50:58.849 [TestNG-test=Test-1] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 16:50:58.856 [TestNG-test=Test-1] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-28 16:51:03.547 [TestNG-test=Test-1] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-28 16:51:03.574 [TestNG-test=Test-1] ContactUsSteps - Entering the name
+[INFO ] 2024-02-28 16:51:05.750 [TestNG-test=Test-1] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-28 16:51:07.865 [TestNG-test=Test-1] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-28 16:51:09.980 [TestNG-test=Test-1] ContactUsSteps - Entering the message
+[INFO ] 2024-02-28 16:51:12.305 [TestNG-test=Test-1] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-28 16:51:24.004 [TestNG-test=Test-1] ContactUsSteps - Validate Url
+[INFO ] 2024-02-28 16:51:51.815 [TestNG-test=Test-1] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 16:51:51.815 [TestNG-test=Test-1] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-28 16:51:55.193 [TestNG-test=Test-1] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-28 16:51:55.195 [TestNG-test=Test-1] ContactUsSteps - Entering the name
+[INFO ] 2024-02-28 16:51:57.422 [TestNG-test=Test-1] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-28 16:51:59.512 [TestNG-test=Test-1] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-28 16:52:01.810 [TestNG-test=Test-1] ContactUsSteps - Entering the message
+[INFO ] 2024-02-28 16:52:04.121 [TestNG-test=Test-1] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-28 16:52:15.843 [TestNG-test=Test-1] ContactUsSteps - Validate Url
+[INFO ] 2024-02-28 16:52:42.607 [TestNG-test=Test-1] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 16:52:42.613 [TestNG-test=Test-1] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-28 16:52:46.388 [TestNG-test=Test-1] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-28 16:52:46.409 [TestNG-test=Test-1] ContactUsSteps - Entering the name
+[INFO ] 2024-02-28 16:52:48.551 [TestNG-test=Test-1] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-28 16:52:50.642 [TestNG-test=Test-1] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-28 16:52:52.710 [TestNG-test=Test-1] ContactUsSteps - Entering the message
+[INFO ] 2024-02-28 16:52:54.764 [TestNG-test=Test-1] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-28 16:53:06.667 [TestNG-test=Test-1] ContactUsSteps - Validate Url
+[INFO ] 2024-02-28 16:53:18.214 [TestNG-test=Test-1] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 16:53:18.218 [TestNG-test=Test-1] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-28 16:53:24.529 [TestNG-test=Test-1] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-28 16:53:24.537 [TestNG-test=Test-1] ContactUsSteps - Entering the name
+[INFO ] 2024-02-28 16:53:26.658 [TestNG-test=Test-1] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-28 16:53:28.791 [TestNG-test=Test-1] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-28 16:53:30.916 [TestNG-test=Test-1] ContactUsSteps - Entering the message
+[INFO ] 2024-02-28 16:53:33.100 [TestNG-test=Test-1] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-28 16:53:44.926 [TestNG-test=Test-1] ContactUsSteps - Validate Url
+[INFO ] 2024-02-28 16:53:53.958 [TestNG-test=Test-1] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 16:53:53.960 [TestNG-test=Test-1] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-28 16:53:58.466 [TestNG-test=Test-1] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-28 16:53:58.473 [TestNG-test=Test-1] ContactUsSteps - Entering the name
+[INFO ] 2024-02-28 16:54:00.688 [TestNG-test=Test-1] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-28 16:54:02.821 [TestNG-test=Test-1] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-28 16:54:04.913 [TestNG-test=Test-1] ContactUsSteps - Entering the message
+[INFO ] 2024-02-28 16:54:07.439 [TestNG-test=Test-1] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-28 16:54:19.333 [TestNG-test=Test-1] ContactUsSteps - Validate Url
+[INFO ] 2024-02-28 16:54:27.843 [TestNG-test=Test-1] SubscribeSteps - user in homepage
+[INFO ] 2024-02-28 16:54:27.844 [TestNG-test=Test-1] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-28 16:54:28.260 [TestNG-test=Test-1] SubscribeSteps - user fills the email
+[INFO ] 2024-02-28 16:54:30.878 [TestNG-test=Test-1] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-28 16:54:33.175 [TestNG-test=Test-1] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-28 16:54:40.060 [TestNG-test=Test-1] SubscribeSteps - user in homepage
+[INFO ] 2024-02-28 16:54:40.062 [TestNG-test=Test-1] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-28 16:54:40.509 [TestNG-test=Test-1] SubscribeSteps - user fills the email
+[INFO ] 2024-02-28 16:54:43.044 [TestNG-test=Test-1] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-28 16:54:45.439 [TestNG-test=Test-1] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-28 16:54:53.463 [TestNG-test=Test-1] SubscribeSteps - user in homepage
+[INFO ] 2024-02-28 16:54:53.485 [TestNG-test=Test-1] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-28 16:54:54.290 [TestNG-test=Test-1] SubscribeSteps - user fills the email
+[INFO ] 2024-02-28 16:54:56.463 [TestNG-test=Test-1] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-28 16:54:58.623 [TestNG-test=Test-1] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-28 16:55:23.983 [TestNG-test=Test-1] SubscribeSteps - user in homepage
+[INFO ] 2024-02-28 16:55:23.992 [TestNG-test=Test-1] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-28 16:55:24.522 [TestNG-test=Test-1] SubscribeSteps - user fills the email
+[INFO ] 2024-02-28 16:55:26.776 [TestNG-test=Test-1] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-28 16:55:28.946 [TestNG-test=Test-1] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-28 17:02:22.991 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:02:48.220 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:02:48.359 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:02:48.465 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:02:48.948 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:02:49.091 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:02:59.256 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:03:08.961 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:03:23.740 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:03:23.856 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:03:24.030 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:03:24.454 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:03:24.574 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:03:34.747 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:03:41.349 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:03:52.276 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:03:52.380 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:03:52.478 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:03:52.617 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:03:52.709 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:04:02.954 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:04:31.493 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:04:38.076 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:04:38.194 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:04:38.325 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:04:38.494 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:04:38.616 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:04:51.421 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:05:03.167 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:05:09.216 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:05:09.322 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:05:09.397 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:05:09.526 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:05:09.653 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:05:21.471 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:05:52.422 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:05:59.353 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:05:59.538 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:05:59.881 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:05:59.986 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:06:00.610 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:06:10.949 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:06:42.907 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:06:47.914 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:06:48.084 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:06:48.610 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:06:49.036 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:06:49.132 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:06:59.453 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:07:13.332 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:07:17.818 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:07:18.073 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:07:18.162 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:07:18.346 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:07:18.992 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:07:32.040 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:07:42.197 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:07:47.235 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:07:47.456 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:07:47.533 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:07:47.686 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:07:47.817 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:08:00.727 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:08:12.341 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:08:16.433 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:08:16.622 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:08:16.730 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:08:17.478 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:08:17.623 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:08:30.153 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:08:44.310 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:09:08.195 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:09:08.342 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:09:08.434 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:09:08.739 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:09:09.099 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:09:21.784 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:09:52.122 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:09:56.872 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:09:57.090 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:09:57.771 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:09:57.954 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:09:58.808 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:10:08.923 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:10:23.336 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:10:54.779 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:11:01.448 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:11:01.992 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:11:03.115 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:11:03.253 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:11:03.433 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:11:13.618 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:11:25.107 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:11:30.374 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:11:30.575 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:11:30.646 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:11:30.753 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:11:30.818 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:11:44.808 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:12:30.064 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:12:36.715 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:12:36.859 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:12:36.935 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:12:37.072 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:12:37.562 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:12:47.700 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:13:19.666 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:13:27.173 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:13:27.347 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:13:27.443 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:13:27.604 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:13:27.731 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:13:40.906 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:13:58.333 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:14:30.105 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:14:35.438 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:14:35.849 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:14:35.932 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:14:36.103 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:14:36.220 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:15:08.195 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:15:23.588 [TestNG-test=Test-1] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 17:15:28.232 [TestNG-test=Test-1] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 17:15:28.438 [TestNG-test=Test-1] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 17:15:29.124 [TestNG-test=Test-1] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 17:15:29.545 [TestNG-test=Test-1] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 17:15:29.640 [TestNG-test=Test-1] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 17:16:01.448 [TestNG-test=Test-1] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 17:16:13.643 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 17:16:16.385 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 17:16:19.549 [TestNG-test=Test-1] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-28 17:16:19.552 [TestNG-test=Test-1] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-28 17:17:05.692 [TestNG-test=Test-1] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 17:17:08.221 [TestNG-test=Test-1] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 21:36:38.424 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 21:36:49.402 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 21:36:50.034 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 21:36:51.015 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 21:36:51.459 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 21:36:51.682 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 21:37:02.071 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 21:37:10.133 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 21:37:15.223 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 21:37:15.421 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 21:37:16.070 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 21:37:16.271 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 21:37:16.530 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 21:37:27.046 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 21:37:36.736 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 21:37:45.672 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 21:37:45.819 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 21:37:45.922 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 21:37:46.215 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 21:37:46.477 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 21:37:56.611 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 21:38:06.235 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 21:38:14.316 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 21:38:14.432 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 21:38:14.662 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 21:38:14.892 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 21:38:15.019 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 21:38:25.394 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 21:38:32.394 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 21:38:38.779 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 21:38:39.154 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 21:38:39.249 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 21:38:39.419 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 21:38:39.544 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 21:38:52.907 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 21:39:01.767 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 21:39:04.835 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 21:39:09.901 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-28 21:39:09.909 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-28 21:39:17.081 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 21:39:22.046 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 21:39:25.426 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-28 21:39:25.427 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-28 21:39:33.362 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 21:39:36.680 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 21:39:40.062 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-28 21:39:40.065 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-28 21:39:47.631 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 21:39:50.559 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 21:39:55.023 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-28 21:39:55.024 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-28 21:40:04.478 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 21:40:06.197 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 21:40:11.006 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-28 21:40:11.008 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-28 21:40:19.542 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 21:40:22.615 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 21:40:23.725 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-28 21:40:23.728 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-28 21:40:26.618 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 21:40:35.430 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 21:40:36.565 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-28 21:40:36.566 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-28 21:40:45.760 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 21:40:45.762 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-28 21:40:46.325 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-28 21:40:56.983 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 21:40:56.984 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-28 21:40:57.407 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-28 21:41:05.738 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 21:41:05.739 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-28 21:41:06.152 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-28 21:41:16.382 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 21:41:16.384 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-28 21:41:16.596 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-28 21:41:26.174 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 21:41:26.177 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-28 21:41:26.695 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-28 21:41:36.244 [main] cart - user searches for sofa
+[INFO ] 2024-02-28 21:41:43.158 [main] cart - Then adds item to cart
+[INFO ] 2024-02-28 21:41:47.765 [main] cart - Then removes item from cart
+[INFO ] 2024-02-28 21:42:00.523 [main] cart - user searches for table
+[INFO ] 2024-02-28 21:42:07.570 [main] cart - Then adds item to cart
+[INFO ] 2024-02-28 21:42:15.902 [main] cart - user searches for sofa
+[INFO ] 2024-02-28 21:42:20.501 [main] cart - Then adds item to cart
+[INFO ] 2024-02-28 21:42:33.290 [main] cart - Then adds item to cart
+[INFO ] 2024-02-28 21:42:55.888 [main] cart - user searches for table
+[INFO ] 2024-02-28 21:43:01.438 [main] cart - Then adds item to cart
+[INFO ] 2024-02-28 21:43:05.660 [main] cart - The quantity is increased
+[INFO ] 2024-02-28 21:43:16.714 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-28 21:43:16.715 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-28 21:43:20.795 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-28 21:43:26.864 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-28 21:43:26.865 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-28 21:43:34.383 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-28 21:43:37.532 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-28 21:43:44.168 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-28 21:43:44.170 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-28 21:43:48.263 [main] FilterStepdefinition - Drag item price element
+[INFO ] 2024-02-28 21:43:51.890 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-28 21:43:55.000 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-28 21:44:00.784 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-28 21:44:00.787 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-28 21:44:05.644 [main] FilterStepdefinition - Drag item price element
+[INFO ] 2024-02-28 21:44:09.206 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-28 21:44:12.325 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-28 21:44:18.796 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 21:44:18.798 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-28 21:44:23.673 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-28 21:44:23.674 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-28 21:44:25.816 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-28 21:44:27.996 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-28 21:44:30.172 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-28 21:44:32.468 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-28 21:44:44.240 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-28 21:44:50.962 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 21:44:50.963 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-28 21:44:56.387 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-28 21:44:56.388 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-28 21:44:58.543 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-28 21:45:00.658 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-28 21:45:02.812 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-28 21:45:05.086 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-28 21:45:16.826 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-28 21:45:25.697 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 21:45:25.698 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-28 21:45:29.242 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-28 21:45:29.244 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-28 21:45:31.354 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-28 21:45:33.460 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-28 21:45:35.688 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-28 21:45:37.873 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-28 21:45:51.313 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-28 21:45:57.138 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 21:45:57.139 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-28 21:46:00.415 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-28 21:46:00.416 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-28 21:46:02.578 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-28 21:46:04.767 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-28 21:46:07.163 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-28 21:46:09.427 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-28 21:46:21.116 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-28 21:46:28.220 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 21:46:28.221 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-28 21:46:32.739 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-28 21:46:32.740 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-28 21:46:34.868 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-28 21:46:36.994 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-28 21:46:39.102 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-28 21:46:41.301 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-28 21:46:52.943 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-28 21:46:55.445 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-02-28 21:46:55.446 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-28 21:46:59.509 [main] SubscribeSteps - user fills the email
+[INFO ] 2024-02-28 21:47:01.871 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-28 21:47:04.007 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-28 21:47:17.416 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-02-28 21:47:17.417 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-28 21:47:17.864 [main] SubscribeSteps - user fills the email
+[INFO ] 2024-02-28 21:47:20.129 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-28 21:47:22.320 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-28 21:47:29.309 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-02-28 21:47:29.311 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-28 21:47:29.651 [main] SubscribeSteps - user fills the email
+[INFO ] 2024-02-28 21:47:32.132 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-28 21:47:34.299 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-28 21:47:40.500 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-02-28 21:47:40.501 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-28 21:47:40.999 [main] SubscribeSteps - user fills the email
+[INFO ] 2024-02-28 21:47:43.333 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-28 21:47:45.576 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-28 23:00:03.609 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 23:00:15.934 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 23:00:16.196 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 23:00:16.430 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 23:00:16.812 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 23:00:16.950 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 23:00:27.129 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 23:00:39.820 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 23:00:48.626 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 23:00:48.880 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 23:00:48.994 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 23:00:49.365 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 23:00:49.539 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 23:00:59.826 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 23:01:10.008 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 23:01:18.716 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 23:01:19.029 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 23:01:19.154 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 23:01:19.549 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 23:01:19.736 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 23:01:29.909 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 23:01:37.760 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 23:01:44.929 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 23:01:45.088 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 23:01:45.210 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 23:01:45.372 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 23:01:45.486 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 23:01:58.725 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 23:02:09.388 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-28 23:02:15.870 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-28 23:02:16.137 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-28 23:02:16.633 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-28 23:02:16.995 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-28 23:02:17.225 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-28 23:02:27.540 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-28 23:02:37.620 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 23:02:40.960 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 23:02:43.488 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-28 23:02:43.497 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-28 23:02:51.166 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 23:02:54.995 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 23:02:59.159 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-28 23:02:59.161 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-28 23:03:09.257 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 23:03:12.962 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 23:03:17.114 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-28 23:03:17.119 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-28 23:03:25.945 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 23:03:30.291 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 23:03:34.236 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-28 23:03:34.238 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-28 23:03:40.731 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 23:03:42.798 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 23:03:46.751 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-28 23:03:46.753 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-28 23:03:54.815 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 23:03:57.882 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 23:03:59.128 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-28 23:03:59.128 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-28 23:04:06.700 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-28 23:04:09.729 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-28 23:04:11.265 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-28 23:04:11.266 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-28 23:04:14.665 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 23:04:14.666 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-28 23:04:19.777 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-28 23:04:32.011 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 23:04:32.012 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-28 23:04:32.604 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-28 23:04:41.506 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 23:04:41.507 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-28 23:04:42.186 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-28 23:04:47.945 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 23:04:47.946 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-28 23:04:54.889 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-28 23:05:05.707 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 23:05:05.708 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-28 23:05:06.476 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-28 23:05:16.625 [main] cart - user searches for sofa
+[INFO ] 2024-02-28 23:05:22.554 [main] cart - Then adds item to cart
+[INFO ] 2024-02-28 23:05:27.131 [main] cart - Then removes item from cart
+[INFO ] 2024-02-28 23:05:40.681 [main] cart - user searches for table
+[INFO ] 2024-02-28 23:05:46.668 [main] cart - Then adds item to cart
+[INFO ] 2024-02-28 23:05:55.358 [main] cart - user searches for sofa
+[INFO ] 2024-02-28 23:06:00.522 [main] cart - Then adds item to cart
+[INFO ] 2024-02-28 23:06:14.201 [main] cart - Then adds item to cart
+[INFO ] 2024-02-28 23:06:33.217 [main] cart - user searches for table
+[INFO ] 2024-02-28 23:06:45.454 [main] cart - Then adds item to cart
+[INFO ] 2024-02-28 23:06:49.756 [main] cart - The quantity is increased
+[INFO ] 2024-02-28 23:07:01.686 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-28 23:07:01.687 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-28 23:07:07.200 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-28 23:07:16.198 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-28 23:07:16.199 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-28 23:07:24.579 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-28 23:07:27.812 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-28 23:07:35.663 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-28 23:07:35.670 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-28 23:07:40.484 [main] FilterStepdefinition - Drag item price element
+[INFO ] 2024-02-28 23:07:44.157 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-28 23:07:47.394 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-28 23:07:54.928 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-28 23:07:54.929 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-28 23:08:00.061 [main] FilterStepdefinition - Drag item price element
+[INFO ] 2024-02-28 23:08:03.719 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-28 23:08:06.892 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-28 23:08:15.572 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 23:08:15.573 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-28 23:08:45.742 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-28 23:08:45.744 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-28 23:08:47.947 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-28 23:08:50.178 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-28 23:08:52.363 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-28 23:08:54.677 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-28 23:09:06.514 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-28 23:09:15.032 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 23:09:15.033 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-28 23:09:19.478 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-28 23:09:19.479 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-28 23:09:21.728 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-28 23:09:23.872 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-28 23:09:26.068 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-28 23:09:28.477 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-28 23:09:40.222 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-28 23:09:43.459 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 23:09:43.459 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-28 23:09:51.753 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-28 23:09:51.760 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-28 23:09:53.997 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-28 23:09:56.164 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-28 23:09:58.316 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-28 23:10:00.417 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-28 23:10:12.078 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-28 23:10:20.492 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 23:10:20.493 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-28 23:10:25.262 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-28 23:10:25.264 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-28 23:10:27.437 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-28 23:10:29.684 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-28 23:10:31.876 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-28 23:10:34.147 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-28 23:10:45.892 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-28 23:10:54.410 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-28 23:10:54.412 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-28 23:10:57.720 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-28 23:10:57.722 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-28 23:10:59.962 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-28 23:11:02.136 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-28 23:11:04.372 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-28 23:11:06.689 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-28 23:11:18.376 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-28 23:11:27.895 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-02-28 23:11:27.896 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-28 23:11:28.617 [main] SubscribeSteps - user fills the email
+[INFO ] 2024-02-28 23:11:30.948 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-28 23:11:33.195 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-28 23:11:41.401 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-02-28 23:11:41.404 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-28 23:11:42.147 [main] SubscribeSteps - user fills the email
+[INFO ] 2024-02-28 23:11:44.622 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-28 23:11:46.829 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-28 23:11:54.924 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-02-28 23:11:54.925 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-28 23:11:55.594 [main] SubscribeSteps - user fills the email
+[INFO ] 2024-02-28 23:11:57.888 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-28 23:12:00.159 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-28 23:12:09.013 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-02-28 23:12:09.014 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-28 23:12:09.720 [main] SubscribeSteps - user fills the email
+[INFO ] 2024-02-28 23:12:12.099 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-28 23:12:14.312 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-29 10:37:02.601 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-29 10:37:09.467 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-29 10:37:09.733 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-29 10:37:09.854 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-29 10:37:10.096 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-29 10:37:10.516 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-29 10:37:20.709 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-29 10:37:30.973 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-29 10:37:37.928 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-29 10:37:38.182 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-29 10:37:38.474 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-29 10:37:38.708 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-29 10:37:39.026 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-29 10:37:49.202 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-29 10:37:56.007 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-29 10:38:04.226 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-29 10:38:04.435 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-29 10:38:04.707 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-29 10:38:05.087 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-29 10:38:05.242 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-29 10:38:15.493 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-29 10:38:18.261 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-29 10:38:33.028 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-29 10:38:33.467 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-29 10:38:33.678 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-29 10:38:33.868 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-29 10:38:34.171 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-29 10:38:44.377 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-29 10:38:53.161 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-29 10:39:00.145 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-29 10:39:00.841 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-29 10:39:01.049 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-29 10:39:01.287 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-29 10:39:01.550 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-29 10:39:11.709 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-29 10:39:15.374 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 10:39:24.529 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 10:39:27.028 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 10:39:27.030 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 10:39:36.512 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 10:39:38.807 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 10:39:42.303 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 10:39:42.305 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 10:39:50.139 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 10:39:52.584 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 10:39:57.016 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 10:39:57.017 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 10:40:11.127 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 10:40:13.504 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 10:40:17.911 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 10:40:17.931 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 10:40:25.530 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 10:40:28.690 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 10:40:32.314 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 10:40:32.316 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 10:40:40.536 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 10:40:43.480 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 10:40:44.338 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 10:40:44.341 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 10:40:53.923 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 10:40:57.985 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 10:40:58.941 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 10:40:58.942 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 10:41:05.844 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 10:41:05.845 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-29 10:41:06.594 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-29 10:41:19.681 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 10:41:19.682 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-29 10:41:20.422 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-29 10:41:29.626 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 10:41:29.628 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-29 10:41:30.285 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-29 10:41:41.316 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 10:41:41.318 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-29 10:41:42.334 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-29 10:41:51.535 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 10:41:51.536 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-29 10:41:52.587 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-29 10:42:04.862 [main] cart - user searches for sofa
+[INFO ] 2024-02-29 10:42:12.703 [main] cart - Then adds item to cart
+[INFO ] 2024-02-29 10:42:16.916 [main] cart - Then removes item from cart
+[INFO ] 2024-02-29 10:42:35.587 [main] cart - user searches for table
+[INFO ] 2024-02-29 10:42:41.455 [main] cart - Then adds item to cart
+[INFO ] 2024-02-29 10:42:49.915 [main] cart - user searches for sofa
+[INFO ] 2024-02-29 10:42:55.645 [main] cart - Then adds item to cart
+[INFO ] 2024-02-29 10:43:09.891 [main] cart - Then adds item to cart
+[INFO ] 2024-02-29 10:43:37.205 [main] cart - user searches for table
+[INFO ] 2024-02-29 10:43:42.601 [main] cart - Then adds item to cart
+[INFO ] 2024-02-29 10:43:46.872 [main] cart - The quantity is increased
+[INFO ] 2024-02-29 10:44:02.933 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-29 10:44:02.935 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-29 10:44:08.502 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-29 10:44:14.325 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-29 10:44:14.327 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-29 10:44:19.149 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-29 10:44:22.345 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-29 10:44:26.386 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-29 10:44:26.389 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-29 10:44:36.530 [main] FilterStepdefinition - Drag item price element
+[INFO ] 2024-02-29 10:44:40.091 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-29 10:44:43.466 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-29 10:44:50.178 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-29 10:44:50.180 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-29 10:44:54.709 [main] FilterStepdefinition - Drag item price element
+[INFO ] 2024-02-29 10:44:58.272 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-29 10:45:01.456 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-29 10:45:05.442 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 10:45:05.443 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-29 10:45:13.708 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-29 10:45:13.710 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-29 10:45:15.860 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-29 10:45:18.001 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-29 10:45:20.174 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-29 10:45:22.524 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-29 10:45:34.284 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-29 10:45:39.640 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 10:45:39.641 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-29 10:45:43.427 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-29 10:45:43.429 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-29 10:45:45.586 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-29 10:45:47.846 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-29 10:45:50.117 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-29 10:45:52.358 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-29 10:46:04.102 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-29 10:46:10.233 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 10:46:10.234 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-29 10:46:13.425 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-29 10:46:13.429 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-29 10:46:15.577 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-29 10:46:17.660 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-29 10:46:19.757 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-29 10:46:21.864 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-29 10:46:35.160 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-29 10:46:40.739 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 10:46:40.740 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-29 10:46:44.196 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-29 10:46:44.202 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-29 10:46:46.311 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-29 10:46:48.443 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-29 10:46:50.612 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-29 10:46:52.894 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-29 10:47:04.569 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-29 10:47:12.399 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 10:47:12.400 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-29 10:47:15.869 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-29 10:47:15.870 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-29 10:47:18.012 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-29 10:47:20.154 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-29 10:47:22.277 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-29 10:47:24.587 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-29 10:47:36.232 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-29 10:47:42.874 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-02-29 10:47:42.875 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-29 10:47:43.357 [main] SubscribeSteps - user fills the email
+[INFO ] 2024-02-29 10:47:46.861 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-29 10:47:49.080 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-29 10:47:57.974 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-02-29 10:47:57.976 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-29 10:47:58.451 [main] SubscribeSteps - user fills the email
+[INFO ] 2024-02-29 10:48:00.784 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-29 10:48:02.987 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-29 10:48:12.268 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-02-29 10:48:12.269 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-29 10:48:12.738 [main] SubscribeSteps - user fills the email
+[INFO ] 2024-02-29 10:48:14.984 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-29 10:48:17.192 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-29 10:48:23.930 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-02-29 10:48:23.931 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-29 10:48:24.407 [main] SubscribeSteps - user fills the email
+[INFO ] 2024-02-29 10:48:26.726 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-29 10:48:30.586 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-29 11:13:55.232 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-29 11:14:02.658 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-29 11:14:02.908 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-29 11:14:03.154 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-29 11:14:03.590 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-29 11:14:03.726 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-29 11:14:13.906 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-29 11:15:58.789 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-29 11:16:07.449 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-29 11:16:07.936 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-29 11:16:08.273 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-29 11:16:08.524 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-29 11:16:08.715 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-29 11:16:18.912 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-29 11:16:27.764 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-29 11:16:34.793 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-29 11:16:34.989 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-29 11:16:35.285 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-29 11:16:35.607 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-29 11:16:35.946 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-29 11:16:46.111 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-29 11:16:56.034 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-29 11:17:02.190 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-29 11:17:02.360 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-29 11:17:02.502 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-29 11:17:02.710 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-29 11:17:02.830 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-29 11:17:16.117 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-29 11:17:26.679 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-29 11:17:34.766 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-29 11:17:34.946 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-29 11:17:35.422 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-29 11:17:35.657 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-29 11:17:35.927 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-29 11:17:46.093 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-29 11:17:54.609 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 11:17:58.732 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 11:18:01.315 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 11:18:01.317 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 11:18:09.155 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 11:18:12.389 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 11:18:16.518 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 11:18:16.520 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 11:18:24.234 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 11:18:28.004 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 11:18:31.290 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 11:18:31.291 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 11:18:34.178 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 11:18:43.863 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 11:18:47.663 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 11:18:47.665 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 11:18:56.964 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 11:19:01.013 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 11:19:04.515 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 11:19:04.516 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 11:19:18.554 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 11:19:23.960 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 11:19:25.012 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 11:19:25.013 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 11:19:36.065 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 11:19:39.747 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 11:19:40.823 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 11:19:40.827 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 11:19:49.515 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 11:19:49.517 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-29 11:19:50.272 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-29 11:20:01.089 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 11:20:01.090 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-29 11:20:01.780 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-29 11:20:13.291 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 11:20:13.292 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-29 11:20:14.182 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-29 11:20:28.065 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 11:20:28.067 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-29 11:20:28.805 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-29 11:20:40.011 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 11:20:40.012 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-29 11:20:41.220 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-29 11:20:53.294 [main] cart - user searches for sofa
+[INFO ] 2024-02-29 11:20:58.663 [main] cart - Then adds item to cart
+[INFO ] 2024-02-29 11:21:02.983 [main] cart - Then removes item from cart
+[INFO ] 2024-02-29 11:21:17.704 [main] cart - user searches for table
+[INFO ] 2024-02-29 11:21:22.944 [main] cart - Then adds item to cart
+[INFO ] 2024-02-29 11:21:31.464 [main] cart - user searches for sofa
+[INFO ] 2024-02-29 11:21:37.653 [main] cart - Then adds item to cart
+[INFO ] 2024-02-29 11:21:50.928 [main] cart - Then adds item to cart
+[INFO ] 2024-02-29 11:22:23.119 [main] cart - user searches for table
+[INFO ] 2024-02-29 11:22:28.831 [main] cart - Then adds item to cart
+[INFO ] 2024-02-29 11:22:33.145 [main] cart - The quantity is increased
+[INFO ] 2024-02-29 11:22:47.483 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-29 11:22:47.484 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-29 11:22:52.661 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-29 11:23:00.585 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-29 11:23:00.586 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-29 11:23:08.368 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-29 11:23:11.547 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-29 11:23:21.135 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-29 11:23:21.136 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-29 11:23:27.067 [main] FilterStepdefinition - Drag item price element
+[INFO ] 2024-02-29 11:23:30.605 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-29 11:23:33.794 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-29 11:23:44.630 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-29 11:23:44.632 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-29 11:23:51.192 [main] FilterStepdefinition - Drag item price element
+[INFO ] 2024-02-29 11:23:54.698 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-29 11:23:57.898 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-29 11:24:09.043 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 11:24:09.044 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-29 11:24:12.298 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-29 11:24:12.302 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-29 11:24:14.470 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-29 11:24:16.613 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-29 11:24:18.800 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-29 11:24:21.075 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-29 11:24:32.813 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-29 11:24:40.866 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 11:24:40.867 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-29 11:24:44.422 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-29 11:24:44.424 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-29 11:24:46.620 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-29 11:24:48.723 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-29 11:24:50.885 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-29 11:24:53.169 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-29 11:25:04.924 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-29 11:25:15.241 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 11:25:15.242 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-29 11:25:18.443 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-29 11:25:18.444 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-29 11:25:20.618 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-29 11:25:22.722 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-29 11:25:24.841 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-29 11:25:26.945 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-29 11:25:38.578 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-29 11:25:48.923 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 11:25:48.923 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-29 11:25:52.186 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-29 11:25:52.187 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-29 11:25:54.320 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-29 11:25:56.465 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-29 11:25:58.623 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-29 11:26:00.858 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-29 11:26:12.519 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-29 11:26:22.062 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 11:26:22.062 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-29 11:26:25.561 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-29 11:26:25.564 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-29 11:26:27.703 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-29 11:26:29.849 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-29 11:26:31.965 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-29 11:26:34.193 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-29 11:26:45.864 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-29 11:26:48.485 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-02-29 11:26:48.485 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-29 11:26:59.829 [main] SubscribeSteps - user fills the email
+[INFO ] 2024-02-29 11:27:02.087 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-29 11:27:04.256 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-29 11:27:16.535 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-02-29 11:27:16.536 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-29 11:27:17.448 [main] SubscribeSteps - user fills the email
+[INFO ] 2024-02-29 11:27:19.723 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-29 11:27:21.891 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-29 11:27:31.735 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-02-29 11:27:31.737 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-29 11:27:32.609 [main] SubscribeSteps - user fills the email
+[INFO ] 2024-02-29 11:27:34.906 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-29 11:27:37.064 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-29 11:27:44.352 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-02-29 11:27:44.353 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-02-29 11:27:45.141 [main] SubscribeSteps - user fills the email
+[INFO ] 2024-02-29 11:27:47.590 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-02-29 11:27:49.746 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-02-29 12:58:50.953 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-29 12:58:59.462 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-29 12:58:59.621 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-29 12:58:59.886 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-29 12:59:00.190 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-29 12:59:00.330 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-29 12:59:10.568 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-29 12:59:24.684 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-29 12:59:31.990 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-29 12:59:32.150 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-29 12:59:32.423 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-29 12:59:32.579 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-29 12:59:32.862 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-29 12:59:43.034 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-29 12:59:50.716 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-29 12:59:57.766 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-29 12:59:57.946 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-29 12:59:58.270 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-29 12:59:58.565 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-29 12:59:58.807 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-29 13:00:08.957 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-29 13:00:19.829 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-29 13:00:27.262 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-29 13:00:27.392 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-29 13:00:27.649 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-29 13:00:27.905 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-29 13:00:28.034 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-29 13:00:38.330 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-29 13:00:50.864 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-02-29 13:00:58.462 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-02-29 13:00:58.840 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-02-29 13:00:58.949 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-02-29 13:00:59.201 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-02-29 13:00:59.333 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-02-29 13:01:12.369 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-02-29 13:01:22.605 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 13:01:25.938 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 13:01:28.491 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 13:01:28.493 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 13:01:31.666 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 13:01:42.924 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 13:01:46.462 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 13:01:46.463 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 13:01:54.307 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 13:01:57.887 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 13:02:01.080 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 13:02:01.081 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 13:02:13.180 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 13:02:16.973 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 13:02:20.525 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 13:02:20.525 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 13:02:28.951 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 13:02:31.876 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 13:02:34.792 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 13:02:34.794 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 13:02:42.440 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 13:02:46.479 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 13:02:47.412 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 13:02:47.413 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 13:02:54.700 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-02-29 13:02:58.466 [main] LoginStepDefs - user enters username and password
+[INFO ] 2024-02-29 13:02:59.224 [main] LoginStepDefs - clicks the login button
+[INFO ] 2024-02-29 13:02:59.225 [main] LoginStepDefs - Message Should Be Displayed
+[INFO ] 2024-02-29 13:03:07.471 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 13:03:07.472 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-29 13:03:08.247 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-29 13:03:14.378 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 13:03:14.379 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-29 13:03:19.221 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-29 13:03:27.423 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 13:03:27.427 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-29 13:03:28.266 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-29 13:03:38.499 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 13:03:38.501 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-29 13:03:38.984 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-29 13:03:47.457 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 13:03:47.458 [main] Searchsteps - entering valid product name
+[INFO ] 2024-02-29 13:03:48.513 [main] Searchsteps - clicking on search button
+[INFO ] 2024-02-29 13:04:03.615 [main] cart - user searches for sofa
+[INFO ] 2024-02-29 13:04:08.535 [main] cart - Then adds item to cart
+[INFO ] 2024-02-29 13:04:12.845 [main] cart - Then removes item from cart
+[INFO ] 2024-02-29 13:04:26.803 [main] cart - user searches for table
+[INFO ] 2024-02-29 13:04:32.473 [main] cart - Then adds item to cart
+[INFO ] 2024-02-29 13:04:41.002 [main] cart - user searches for sofa
+[INFO ] 2024-02-29 13:04:45.386 [main] cart - Then adds item to cart
+[INFO ] 2024-02-29 13:04:58.545 [main] cart - Then adds item to cart
+[INFO ] 2024-02-29 13:05:27.624 [main] cart - user searches for table
+[INFO ] 2024-02-29 13:05:33.204 [main] cart - Then adds item to cart
+[INFO ] 2024-02-29 13:05:37.406 [main] cart - The quantity is increased
+[INFO ] 2024-02-29 13:05:52.187 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-29 13:05:52.189 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-29 13:05:57.308 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-29 13:06:05.952 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-29 13:06:05.953 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-29 13:06:11.487 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-29 13:06:14.673 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-29 13:06:17.304 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-29 13:06:17.311 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-29 13:06:32.946 [main] FilterStepdefinition - Drag item price element
+[INFO ] 2024-02-29 13:06:36.459 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-29 13:06:39.696 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-29 13:06:50.829 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-02-29 13:06:50.830 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-02-29 13:06:56.491 [main] FilterStepdefinition - Drag item price element
+[INFO ] 2024-02-29 13:06:59.973 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-02-29 13:07:03.110 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-02-29 13:07:11.853 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 13:07:11.854 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-29 13:07:15.920 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-29 13:07:15.921 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-29 13:07:18.121 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-29 13:07:20.258 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-29 13:07:22.480 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-29 13:07:24.730 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-29 13:07:36.474 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-29 13:07:46.364 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 13:07:46.365 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-29 13:07:49.921 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-29 13:07:49.928 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-29 13:07:52.118 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-29 13:07:54.230 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-29 13:07:56.395 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-29 13:07:58.658 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-29 13:08:10.391 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-29 13:08:16.816 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 13:08:16.828 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-29 13:08:20.425 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-29 13:08:20.427 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-29 13:08:22.609 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-29 13:08:24.715 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-29 13:08:26.844 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-29 13:08:28.930 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-29 13:08:40.560 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-29 13:08:47.875 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 13:08:47.876 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-02-29 13:08:51.443 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-02-29 13:08:51.448 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-02-29 13:08:53.636 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-02-29 13:08:55.776 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-02-29 13:08:57.907 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-02-29 13:09:00.240 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-02-29 13:09:11.894 [main] ContactUsSteps - Validate Url
+[INFO ] 2024-02-29 13:09:15.659 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-02-29 13:09:15.671 [main] ContactUsSteps - Clicking on ContactUs link
