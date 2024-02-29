@@ -25,7 +25,7 @@ public class BaseTest {
 	@Before
 	public  void setUp() {
 		
-	        System.setProperty("webdriver.chrome.driver", "drivers/windows/chromedriver.exe");
+	        System.setProperty("webdriver.gecko.driver", "drivers/windows/chromedriver.exe");
 		driver= new ChromeDriver();
 		
 		driver.manage().window().maximize();
