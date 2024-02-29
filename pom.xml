@@ -119,6 +119,12 @@
 			<artifactId>cucumber-picocontainer</artifactId>
 			<version>7.15.0</version>
 		</dependency>
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.30</version>
+			<scope>provided</scope>
+		</dependency>
 	</dependencies>
 
 	<build>
@@ -144,6 +150,12 @@
 				<plugin>
 					<artifactId>maven-surefire-plugin</artifactId>
 					<version>2.22.1</version>
+					<configuration>
+						<includes>
+							<include>com/project/rll/runners/TestNgRunner.java</include>
+						</includes>
+					</configuration>
+							
 				</plugin>
 				<plugin>
 					<artifactId>maven-jar-plugin</artifactId>
