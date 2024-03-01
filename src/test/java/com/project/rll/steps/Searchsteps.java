@@ -45,7 +45,7 @@ public class Searchsteps {
         
         String actualTitle = searchPage.checkTitle();
  
-       //assertTrue(actualTitle.contains(string));
+       assertTrue(actualTitle.contains(string));
     }
 
   
