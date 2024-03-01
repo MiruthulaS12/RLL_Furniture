@@ -36,12 +36,12 @@ public class BaseTest {
 	
 	@After
 	public void tearDown(Scenario scenario)  {
-		//if(scenario.isFailed()) {
-			// capture screen ,  The use of final means that the variable cannot be reassigned.
-			//final byte[] screenshot = ((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
-			// Attach the screenshot to the report
-           //scenario.attach(screenshot, "image/png", scenario.getName()); 
-		//}
+		if(scenario.isFailed()) {
+			 capture screen ,  The use of final means that the variable cannot be reassigned.
+			 final byte[] screenshot = ((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
+			 Attach the screenshot to the report
+           scenario.attach(screenshot, "image/png", scenario.getName()); 
+		}
 		
 		
 			driver.quit();
